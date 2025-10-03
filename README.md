@@ -1,4 +1,4 @@
-# youtube comment bot bot
+# youtube comment bot free
 
 Automate YouTube comment posting and moderation at scale. This repo streamlines account/session handling, safe pacing, and proxy rotation so you can schedule or batch-post comments reliably.
 
